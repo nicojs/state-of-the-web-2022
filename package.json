@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "bootstrap-icons": "^1.8.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.22"
   }
 }

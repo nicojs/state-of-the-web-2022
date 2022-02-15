@@ -14,7 +14,7 @@
 
 ### Controversy
 
-There is a lot of controversy around web components
+There is some controversy around web components
 
 - 🤔 There was a "v0-spec", which has come and died
 - 🤔 <!-- .element class="fragment" data-fragment-index="1" --> It's easy to "misuse" them.
