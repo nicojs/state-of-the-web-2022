@@ -1,0 +1,14 @@
+.reveal .img-header img {
+  width: 200px;
+}
+
+.reveal .img-rounded {
+    border-radius: 10px;
+}
+.reveal .img-round {
+    border-radius: 50%;
+}
+
+img.icon {
+  height: 100px;
+}

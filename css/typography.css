@@ -1,0 +1,41 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal p {
+  text-align: center;
+}
+
+.reveal section ul,
+.reveal section ol {
+  width: auto;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.typewriter {
+  font-family: "Mom´sTypewriter";
+}
+
+cite {
+  text-align: right;
+  font-size: 0.8em;
+  display: block;
+  margin-top: 40px;
+}
+
+.small {
+  font-size: 0.6em;
+}
+
+table.sm {
+  font-size: 0.4em;
+}
+
+table.xs {
+  font-size: 0.35em;
+}
+
+.reveal .no-list li {
+  list-style-type: none;
+}
