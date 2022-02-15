@@ -12,3 +12,7 @@
 img.icon {
   height: 100px;
 }
+
+img.meme {
+  max-width: 300px;
+}
