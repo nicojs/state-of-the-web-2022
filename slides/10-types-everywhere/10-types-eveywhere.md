@@ -57,6 +57,6 @@ All (re)written in TypeScript
 
 Why not join the [KC TypeScript course](https://training.infosupport.com/trainingen/tsdev/typescript-development/)?
 
-![](/img/memes/shameless-plug.jpg) <!-- .element class="meme" -->
+![](/img/memes/shameless-plug.jpg) <!-- .element class="meme img-rounded" -->
 
 

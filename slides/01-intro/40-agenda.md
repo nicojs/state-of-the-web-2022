@@ -5,22 +5,22 @@
 
 ### Trends 
 
-1. Types everywhere
-1. ES Modules
-1. Web components 
-1. Functional CSS
+1. <span class="badge"> ![](/img/nico.jpg) </span> Types everywhere
+1. <span class="badge"> ![](/img/nico.jpg) </span> ES Modules
+1. <span class="badge"> ![](/img/nico.jpg) </span> Web components
+1. <span class="badge"> ![](/img/nico.jpg) </span> Functional CSS
 
 </div>
 <div class="col">
 
 ### Tools
 
-1. Test runners
+1. <span class="badge"> ![](/img/nico.jpg) </span> Testing
    
    ---
-1. Build tools
-1. Node vs Deno
-1. Web frameworks
+1. <span class="badge"> ![](/img/jp.png) </span> Build tools 
+1. <span class="badge"> ![](/img/jp.png) </span> Node vs Deno
+1. <span class="badge"> ![](/img/jp.png) </span> Web frameworks
     * The big boys: Angular, React, VueJS
     * The new kids: Svelte, Yew, Blazor
 

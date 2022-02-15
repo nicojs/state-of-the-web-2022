@@ -44,3 +44,10 @@ table.xs {
   height: auto;
   width: 80%;
 }
+
+.reveal .sm {
+  font-size: .4em;
+}
+.reveal .xs {
+  font-size: .2em;
+}
