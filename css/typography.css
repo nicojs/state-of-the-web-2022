@@ -39,3 +39,8 @@ table.xs {
 .reveal .no-list li {
   list-style-type: none;
 }
+
+.reveal .col pre {
+  height: auto;
+  width: 80%;
+}

@@ -50,3 +50,13 @@ All (re)written in TypeScript
 <!-- .slide: class="is-lab" -->
 
 ### Demo-time 💨
+
+---
+
+### Want to know more?
+
+Why not join the [KC TypeScript course](https://training.infosupport.com/trainingen/tsdev/typescript-development/)?
+
+![](/img/memes/shameless-plug.jpg) <!-- .element class="meme" -->
+
+
