@@ -22,8 +22,15 @@ class EmoJI extends HTMLElement {
   }
 
   updateEmoJI() {
-    this.sh = `<style>.big { font-size: 100px; }</style>`;
-    this.innerHTML += `<div class="big">${emojis[this.type]}</div>`;
+    this.shadowRoot.innerHTML = `
+    <style>
+    .big {
+       font-size: 100px; 
+       }
+    </style>
+    <div class="big">
+      ${emojis[this.type]}
+    </div>`;
   }
 
   attributeChangedCallback() {
@@ -53,7 +60,8 @@ customElements.define('emo-ji', EmoJI);
 ```html
 <emo-ji id="the-emoji" type="joy"></emo-ji>
 <span class="big">not so big</span>
-<input oninput="document.getElementById('the-emoji').type = this.value">
+<input oninput="document.getElementById('the-emoji')
+                        .type = this.value" />
 ```
 
 <!-- .element class="xs" -->
@@ -64,4 +72,3 @@ customElements.define('emo-ji', EmoJI);
 
 </div>
 </div>
-

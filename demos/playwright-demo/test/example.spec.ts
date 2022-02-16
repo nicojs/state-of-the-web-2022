@@ -1,4 +1,4 @@
-import { test, expect, Page, devices } from '@playwright/test';
+import { test, expect } from '@playwright/test';
 import { Todo } from './model/todo';
 import { TodoPage } from './po/todo-page';
 

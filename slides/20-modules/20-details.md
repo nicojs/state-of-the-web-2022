@@ -33,18 +33,18 @@ Also more syntax, like `default` and `import './module-with-side-effects'`.
 
 ---
 
+<!-- .slide: class="is-lab" -->
+
+### Demo-time 💨
+
+---
+
 ### Some remarks
 
 - Modules are loaded _asynchronously_.
 - Modules are always in [_strict_ mode](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#changes_in_strict_mode) <!-- .element target="_blank" -->
 - File extensions are _required_ (also in TypeScript).
 - Modules are executed in 3 _phases_
-
----
-
-<!-- .slide: class="is-lab" -->
-
-### Demo-time 💨
 
 ---
 
@@ -60,9 +60,9 @@ Let's use modules for everything!! 🤩
 
 ---
 
-### Whoa there cowboy!
+### Whoa there cowboy! 🤠
 
-Keep in mind mind:
+Keep in mind:
 
 - 😢 <!-- .element class="fragment" --> Modules don't support _bare imports_ 
     -  `import { range } from 'rxjs';`
