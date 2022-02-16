@@ -21,7 +21,7 @@
 
 * 💼 Trainer KC
 * 🐱‍👤 Web guru
-* <i class="bi bi-github" style="color: #1a1d21"></i> &nbsp;jptenBerge
+* <i class="bi bi-github" style="color: #1a1d21"></i> &nbsp;JPtenBerge
 
 <!-- .element class="no-list" -->
 
