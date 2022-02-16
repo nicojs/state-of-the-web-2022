@@ -37,6 +37,6 @@ Well... it takes 1000 words to explain
     - Choose between `text-sm` and `text-xs` rather than `font-size: 10px` or `font-size: 11px`
 
 
-Note: you need to know CSS if you want to use functional css
+👉 You need to know CSS if you want to use functional css
 
 <!-- .element class="fragment" -->

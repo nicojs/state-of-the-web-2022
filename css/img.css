@@ -27,3 +27,9 @@ img.meme {
   width: 35px;
   margin: 0;
 }
+
+.reveal .img-inline-text {
+  height: 50px;
+  vertical-align: middle;
+  margin: 0;
+}
