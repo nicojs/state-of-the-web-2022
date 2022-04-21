@@ -45,7 +45,7 @@
 - create-react-app
 - ...
 
-All treat TS as first class citizen 
+All treat TS as first class citizen
 
 ---
 
@@ -61,7 +61,7 @@ All treat TS as first class citizen
 
 ### But wait, there is more
 
-[![ts-annotations-blog.png](/img/ts-annotations-blog.png) <!-- .element class="img-md" -->](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/) 
+[![ts-annotations-blog.png](/img/ts-annotations-blog.png) <!-- .element class="img-md" -->](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/)
 
 ![type-annotations-proposal.svg](/img/type-annotations-proposal.svg) <!-- .element class="img-md" -->
 
@@ -71,10 +71,27 @@ All treat TS as first class citizen
 
 ---
 
+### Shared guidance
+
+I personally think we would be fools to keep separate guidance
+
+- ✅ The evidence is clear <!-- .element class="fragment" -->
+  - The 2 words collide
+- ✅ It sends a clear message to every engineer looking for guidance <!-- .element class="fragment" -->
+  - > Types are an important part of your application <!-- .element class="typewriter" -->
+- ✅ We're ahead of the curve <!-- .element class="fragment" -->
+  - Info Support is thought leader... obviously!
+
+<!-- .element class="no-list" -->
+
+---
+
+![you-fools](/img/memes/you-fools.jpg)
+
+---
+
 ### Want to know more?
 
 Why not join the [KC TypeScript course](https://training.infosupport.com/trainingen/tsdev/typescript-development/)?
 
 ![](/img/memes/shameless-plug.jpg) <!-- .element class="meme img-rounded" -->
-
-
