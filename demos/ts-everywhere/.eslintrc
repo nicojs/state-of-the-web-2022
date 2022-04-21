@@ -5,13 +5,13 @@
   "env": { "node": true },
   "extends": [
     "eslint:recommended",
-    "plugin:@typescript-eslint/recommended"
-    // "plugin:@typescript-eslint/recommended-requiring-type-checking"
-    // "prettier",
+    "plugin:@typescript-eslint/recommended",
+    // "plugin:@typescript-eslint/recommended-requiring-type-checking",
+    // "prettier"
   ],
-  // "parserOptions": {
-  //   "project": ["./tsconfig.json"]
-  // },
+  "parserOptions": {
+    // "project": ["./tsconfig.json"]
+  },
   "rules": {
     // "prettier/prettier": ["error"]
   }
