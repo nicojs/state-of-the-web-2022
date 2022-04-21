@@ -21,20 +21,6 @@
 
 ---
 
-### Frameworks and tools
-
-- VSCode
-- Jest
-- Vue
-- Angular
-- Stryker
-- Playwright
-- ...
-
-All (re)written in TypeScript
-
----
-
 ### Linting and formatting
 
 <emoji-list>
@@ -47,9 +33,41 @@ All (re)written in TypeScript
 
 ---
 
+### Frameworks and tools
+
+- VSCode
+- Jest
+- Vue
+- Angular
+- Stryker
+- Playwright
+- Vite
+- create-react-app
+- ...
+
+All treat TS as first class citizen 
+
+---
+
 <!-- .slide: class="is-lab" -->
 
 ### Demo-time 💨
+
+---
+
+![wait there is more](/img/memes/wait-there-is-more.jpg)
+
+---
+
+### But wait, there is more
+
+[![ts-annotations-blog.png](/img/ts-annotations-blog.png) <!-- .element class="img-md" -->](https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/) 
+
+![type-annotations-proposal.svg](/img/type-annotations-proposal.svg) <!-- .element class="img-md" -->
+
+[Official proposal](https://github.com/tc39/proposal-type-annotations#readme)
+
+[YouTube video discussing the topic](https://youtu.be/EgiYmaGCN8Q)
 
 ---
 

@@ -14,18 +14,21 @@ async function listSlides(chapter) {
   });
 }
 
+/**
+ * @param {string} root 
+ */
 async function listChapters(root) {
-  const entries = await fs.promises.readdir(root);
+  const entries = await fs.promises.readdir(root, { withFileTypes: true });
   for (const entry of entries) {
     if (entry.isDirectory()) {
       console.log(`# ${entry.name}`);
-      await listSlides(path.resolve(root, entry));
+      await listSlides(path.resolve(root, entry.name));
     }
   }
 }
 
 async function main() {
-  listChapters("../../slides");
+  await listChapters("../../slides");
 }
 
 main().catch((error) => {
